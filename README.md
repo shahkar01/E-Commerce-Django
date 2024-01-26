@@ -1,12 +1,9 @@
 # Non-Fiction Summaries
 **Ecommerce & Blog Web Application with User Authentication and Stripe Payments**
-
-This Web App was built as a final project for the Code Institute's classroom bootcamp. 
+ 
 It is a Ecommerce site built with Python's *Django* framework - no template was used.
 
 ## Live Demo
-
-**Follow this link to view deployed version of the web app https://conor-dev-summaries.herokuapp.com/**
 
 ## Built with 
 1. Django
